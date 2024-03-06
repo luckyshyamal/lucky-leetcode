@@ -26,7 +26,11 @@ int main(){
    }
   }
   cout<<"even sum = "<<evenSum<<endl<<"odd sum = "<<oddSum<<endl;
+
+
   //? subtracting oddSum to evenSum
+
+  
   result=evenSum-oddSum;
   cout<<"difference between even and odd indices = "<<result;
 
