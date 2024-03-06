@@ -1,5 +1,7 @@
 
 //? find the second largest element in the given array
+//? only used when the array has all unique elements
+//! METHOD-1
 
 #include<iostream>
 using namespace std;
