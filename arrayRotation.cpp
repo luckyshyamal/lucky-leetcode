@@ -1,3 +1,6 @@
+
+//? rotate the given array by k steps
+
 #include<iostream>
 using namespace std;
 int  main(){
