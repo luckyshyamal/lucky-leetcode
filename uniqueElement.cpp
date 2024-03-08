@@ -23,7 +23,7 @@ int main(){
   }
 
   //? check weather elements are 0 or nat not 
-  //? if not print the element 
+  //? if don't print the element 
   cout<<"unique elements are: ";
   for(int i=0;i<n;i++){
     if(arr[i]!=0){
