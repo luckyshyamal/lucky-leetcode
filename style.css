@@ -18,10 +18,26 @@ h1{
     font-size: 40px;   
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
     margin-bottom: 15px;
+    background-color: #333;
+    padding: 10px 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 15px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
 }
 p{
-    font-size: 16px;  
- 
+    font-size: 20px;
+    font-weight: 500;
+    background-color: #333;
+    padding: 10px 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 15px;
     border-radius: 8px;
-    font-weight: 400;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
 }
